@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://linkedin.com/in/asenayıldırım" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cerenkocyigit" height="30" width="40" /></a>
-<a href="https://www.instagram.com/niyease/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mysoftwarelight" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/asena-yıldırım-820a58179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asenayldrm" height="30" width="40" /></a>
+<a href="https://www.instagram.com/niyease/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="niyease" height="30" width="40" /></a>
 <hr/>
 
 
